@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+/*Edit title style*/
+.mainTitle {
+  color: #8F55BC;
+  font-size: 40px;
+  text-align: left;
+  margin-left: 27px;
+}
